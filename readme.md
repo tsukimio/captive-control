@@ -1,5 +1,5 @@
 # Magisk Captive Control
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Version: v1.0.1](https://img.shields.io/badge/Version-v1.0.1-success)](https://github.com/tsukimio/captive-control/releases)
 
 ## Description
 A Magisk module designed to change the default Android Captive Portal Detection behaviour. It allows the users to either change the default CPD URL from Google's to Kuketz (a security and privacy researcher) or completely disable it. Disabling CPD completely is useful when Android System (UID 1000) is denied all network traffic through a firewall (e.g. AFWall).
