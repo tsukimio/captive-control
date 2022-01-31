@@ -1,0 +1,9 @@
+id=captive-control
+name=Captive Portal Control
+version=v1.0.1
+versionCode=101
+author=Atrate & n3rd3x3
+description=A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.
+support=https://gitlab.com/tsukimio/captive-control
+minMagisk=2000
+updateJson=https://tsukimio.github.io/captive-control/update.json
